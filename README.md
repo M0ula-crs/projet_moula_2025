@@ -50,13 +50,4 @@ Ce dépôt GitHub me sert à :
 - Medium — [@Kh_abdel](https://medium.com/@Kh_abdel) : articles & write-ups  
 - LinkedIn — [Khalil Abdelmoula](https://www.linkedin.com/in/khalil-abdelmoula-832ba838b/)  
 
----
 
-### 🕹️ En dehors du clavier
-
-Sportif et curieux de nature, je pratique le **Muay Thaï**, le **tennis** et le **volleyball**.  
-J’aime aussi explorer la **musique** (batterie, guitare) et les nouvelles technologies.  
-
----
-
-> 💬 *"Apprendre, comprendre, et partager : trois piliers qui guident mon parcours en cybersécurité."*  
