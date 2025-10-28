@@ -22,6 +22,20 @@ Ce dépôt GitHub me sert à :
 - Documenter mon **évolution technique** et mes expérimentations.
 
 ---
+### 📁 Structure du dépôt
+Rootme/
+  ├── forensic/
+  ├── web-client/
+  ├── serv-client/
+  ├── reseau/
+  └── realiste/
+
+Tryhackme/
+  └── <machines_et_rooms>
+
+SOC/
+  └── <analyses_projets_alertes_playbooks>
+---
 
 ### 🧩 Compétences techniques
 
